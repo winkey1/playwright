@@ -1,0 +1,20 @@
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+58759783-zone-custom-region-ID:AErmBDAD@as.proxys5.net:6200
+
+proxy={
+                "server": PROXY_SERVER,
+                "username": PROXY_USERNAME,
+                "password": PROXY_PASSWORD
+            }
+
+            PROXY_SERVER = "http://as.proxys5.net:6200" # atau "socks5://proxy.example.com:1080"
+PROXY_USERNAME = "58759783-zone-custom-region-ID"
+PROXY_PASSWORD = "AErmBDAD"
